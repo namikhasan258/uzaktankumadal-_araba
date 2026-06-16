@@ -6,8 +6,7 @@ Projenin en ayırt edici özelliği, asenkron (`millis()`) kod mimarisi ve özel
 
 ---
 
-Hazirlayan 
-Namık Hasan
+**Hazırlayan:** Namık Hasan
 
 ## 🚀 Öne Çıkan Özellikler
 
@@ -73,6 +72,13 @@ Araç, bir Bluetooth terminali veya özelleştirilmiş bir robot kontrol uygulam
 3. `LiquidCrystal_I2C` ve `DHT` kütüphanelerinin IDE'nizde yüklü olduğundan emin olun.
 4. Kart tipinizi ve Portunuzu seçip kodu yükleyin.
 5. *Not: Kod yüklerken Bluetooth modülünün RX/TX pinlerini sökmeyi unutmayın (seri port çakışmasını önlemek için).*
+
+---
+
+## 🎯 Gelecek Geliştirmeler & Yol Haritası
+
+* [ ] Fritzing veya Proteus kullanılarak hazırlanacak olan detaylı **Devre Şeması (Schematic Diagram)** sonraki aşamada projeye eklenecektir.
+* [ ] Şasi tasarımı ve 3D modelleme detayları paylaşılacaktır.
 
 ---
 ✨ **NH** tarafından sevgiyle ve mühendislikle geliştirilmiştir.
