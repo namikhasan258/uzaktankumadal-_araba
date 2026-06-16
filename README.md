@@ -75,4 +75,4 @@ Araç, bir Bluetooth terminali veya özelleştirilmiş bir robot kontrol uygulam
 5. *Not: Kod yüklerken Bluetooth modülünün RX/TX pinlerini sökmeyi unutmayın (seri port çakışmasını önlemek için).*
 
 ---
-✨ **NH+NWS** tarafından sevgiyle ve mühendislikle geliştirilmiştir.
+✨ **NH** tarafından sevgiyle ve mühendislikle geliştirilmiştir.
